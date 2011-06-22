@@ -22,7 +22,6 @@ Bundle 'ervandew/supertab'
 " -----------
 Bundle 'tpope/vim-abolish'
 Bundle 'tpope/vim-endwise'
-Bundle 'tpope/vim-markdown'
 Bundle 'tpope/vim-ragtag'
 Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-surround'
@@ -31,6 +30,7 @@ Bundle 'JavaScript-syntax'
 Bundle 'OOP-javascript-indentation'
 Bundle 'jQuery'
 Bundle 'mattn/zencoding-vim'
+Bundle 'hallison/vim-markdown'
 Bundle 'css_color.vim'
 
 " Ruby/Rails
